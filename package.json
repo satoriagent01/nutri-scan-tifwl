@@ -1,0 +1,12 @@
+{
+  "name": "nutri-scan",
+  "version": "1.0.0",
+  "description": "Free nutrition label scanner and meal planner",
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/**/*.test.js"
+  },
+  "dependencies": {
+    "tesseract.js": "^5.1.1"
+  }
+}
